@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>Test</groupId>
-  <artifactId>JdbcFiles</artifactId>
+  <groupId>test</groupId>
+  <artifactId>JDBCDEMO</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>JdbcFiles</name>
+  <name>JDBCDEMO</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -23,6 +23,7 @@
     <artifactId>mysql-connector-j</artifactId>
     <version>8.0.31</version>
 </dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
