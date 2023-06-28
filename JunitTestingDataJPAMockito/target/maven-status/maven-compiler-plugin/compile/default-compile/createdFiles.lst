@@ -1,0 +1,6 @@
+com\example\JunitTestingDataJpaMockitoApplication.class
+com\example\model\Employee.class
+com\example\dao\EmployeeDaoImpl.class
+com\example\controller\EmployeeController.class
+com\example\repo\EmployeeRepo.class
+com\example\service\EmployeeServiceImpl.class
